@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.log
+
+# Django stuff:
+*.sqlite3
+db.sqlite3
+staticfiles/
+
+# Virtual environments
+venv/
+env/
+ENV/
+*.env
+
+# VS Code (nếu có dùng)
+.vscode/
+
+# PyCharm / JetBrains IDE
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cache or temporary
+*.tmp
+*.bak
+*.swp
