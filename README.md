@@ -8,13 +8,16 @@ Includes features such as user authentication, song search, categorized genres, 
 ## 🚀 Features
 
 - 👤 Admin can:
-  - Manage Songs, User Accounts, Genres, Artists, Albums
-- 🎵 User can:
-  - Browse available songs
-  - Play music stored on the server
-  - Create and manage personal albums
-  - Create and manage personal favorite songs and albums
-
+  => username: admin
+  => pass: admin
+  - ⚙️ Manage Songs, User Accounts, Genres, Artists, Albums
+  
+- 🧑 User can:
+  - 🔐 User authentication (JWT)
+  - 🎵 Browse available songs
+  - 🎧 Play music stored on the server
+  - 🛒 Create and manage personal favorite songs and albums
+  - 🔍 Search songs 
 
 ## 🛠️ Tech Stack
 
